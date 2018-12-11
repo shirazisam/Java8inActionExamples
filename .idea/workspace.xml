@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05aff70-f73a-469c-9d34-a904c667856a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java8inAction.iws" />
@@ -24,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter10/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Insurance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter10/Insurance.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptionalUtility.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OptionalUtility.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter10/OptionalUtility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -148,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter5/MyIntBinaryOperator.java" />
         <option value="$PROJECT_DIR$/src/chapter5/MyIntTrinaryOperator.java" />
         <option value="$PROJECT_DIR$/src/chapter5/MyFileObjectFactory.java" />
         <option value="$PROJECT_DIR$/src/chapter5/MyFileObjectExtended.java" />
@@ -199,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/patterns/factory/Main.java" />
         <option value="$PROJECT_DIR$/src/chapter10/OptionalUtility.java" />
         <option value="$PROJECT_DIR$/src/patterns/factory/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1298,7 +1299,7 @@
       <workItem from="1542310604542" duration="38398000" />
       <workItem from="1543263095996" duration="17766000" />
       <workItem from="1543501846964" duration="42561000" />
-      <workItem from="1544448777950" duration="26789000" />
+      <workItem from="1544448777950" duration="26978000" />
     </task>
     <task id="LOCAL-00001" summary="Comment added">
       <created>1544522229872</created>
@@ -1385,7 +1386,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147584000" />
+    <option name="totallyTimeSpent" value="147773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="3224" height="1754" extended-state="6" />
@@ -1478,53 +1479,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15570">
-          <caret line="548" column="26" selection-start-line="548" selection-start-column="26" selection-end-line="548" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#41182#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#7471#7472#0" expanded="false" />
-            <element signature="e#7531#7532#0" expanded="false" />
-            <element signature="e#20934#20935#0" expanded="false" />
-            <element signature="e#20970#20971#0" expanded="false" />
-            <element signature="e#22432#22433#0" expanded="false" />
-            <element signature="e#22507#22508#0" expanded="false" />
-            <element signature="e#22918#22919#0" expanded="false" />
-            <element signature="e#22978#22979#0" expanded="false" />
-            <element signature="e#23334#23335#0" expanded="false" />
-            <element signature="e#23368#23369#0" expanded="false" />
-            <element signature="e#24650#24651#0" expanded="false" />
-            <element signature="e#24690#24691#0" expanded="false" />
-            <element signature="e#25095#25096#0" expanded="false" />
-            <element signature="e#25133#25134#0" expanded="false" />
-            <element signature="e#25486#25487#0" expanded="false" />
-            <element signature="e#25520#25521#0" expanded="false" />
-            <element signature="e#25877#25878#0" expanded="false" />
-            <element signature="e#25912#25913#0" expanded="false" />
-            <element signature="e#26241#26242#0" expanded="false" />
-            <element signature="e#26274#26275#0" expanded="false" />
-            <element signature="e#26606#26607#0" expanded="false" />
-            <element signature="e#26640#26641#0" expanded="false" />
-            <element signature="e#26997#26998#0" expanded="false" />
-            <element signature="e#27032#27033#0" expanded="false" />
-            <element signature="e#27228#27229#0" expanded="false" />
-            <element signature="e#27256#27257#0" expanded="false" />
-            <element signature="e#28029#28030#0" expanded="false" />
-            <element signature="e#28074#28075#0" expanded="false" />
-            <element signature="e#38307#38308#0" expanded="false" />
-            <element signature="e#38372#38373#0" expanded="false" />
-            <element signature="e#40164#40165#0" expanded="false" />
-            <element signature="e#40192#40193#0" expanded="false" />
-            <element signature="e#40577#40578#0" expanded="false" />
-            <element signature="e#40614#40615#0" expanded="false" />
-            <element signature="e#41000#41001#0" expanded="false" />
-            <element signature="e#41037#41038#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5/IdGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1951,8 +1905,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/OptionalUtility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
