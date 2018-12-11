@@ -13,6 +13,7 @@ import static java.util.Map.Entry.comparingByValue;
  */
 public class ProductFactory {
 
+    /* A factory pattern using lambda - my_new_branch */
 
     final static Map<String, TriFunction<Double, String, Integer, Product>> map = new HashMap<>();
     static {
