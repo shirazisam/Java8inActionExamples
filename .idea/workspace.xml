@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05aff70-f73a-469c-9d34-a904c667856a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java8inAction.iws" />
@@ -1299,7 +1298,7 @@
       <workItem from="1542310604542" duration="38398000" />
       <workItem from="1543263095996" duration="17766000" />
       <workItem from="1543501846964" duration="42561000" />
-      <workItem from="1544448777950" duration="26978000" />
+      <workItem from="1544448777950" duration="27017000" />
     </task>
     <task id="LOCAL-00001" summary="Comment added">
       <created>1544522229872</created>
@@ -1350,7 +1349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544555991210</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="comment re-aadded">
+      <created>1544556210974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544556210974</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1386,7 +1392,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147773000" />
+    <option name="totallyTimeSpent" value="147812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="3224" height="1754" extended-state="6" />
