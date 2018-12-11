@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05aff70-f73a-469c-9d34-a904c667856a" name="Default" comment="" />
+    <list default="true" id="f05aff70-f73a-469c-9d34-a904c667856a" name="Default" comment="Comment added">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/factory/ProductFactory.java" afterPath="$PROJECT_DIR$/src/patterns/factory/ProductFactory.java" />
+    </list>
     <ignored path="Java8inAction.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,8 +60,8 @@
       <file leaf-file-name="ProductFactory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/patterns/factory/ProductFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="450">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -125,6 +128,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -182,8 +188,8 @@
         <option value="$PROJECT_DIR$/src/patterns/factory/Stock.java" />
         <option value="$PROJECT_DIR$/src/chapter10/MainChap10.java" />
         <option value="$PROJECT_DIR$/src/patterns/factory/TriFunction.java" />
-        <option value="$PROJECT_DIR$/src/patterns/factory/ProductFactory.java" />
         <option value="$PROJECT_DIR$/src/patterns/factory/Main.java" />
+        <option value="$PROJECT_DIR$/src/patterns/factory/ProductFactory.java" />
       </list>
     </option>
   </component>
@@ -1283,8 +1289,23 @@
       <workItem from="1542310604542" duration="38398000" />
       <workItem from="1543263095996" duration="17766000" />
       <workItem from="1543501846964" duration="42561000" />
-      <workItem from="1544448777950" duration="20060000" />
+      <workItem from="1544448777950" duration="21351000" />
     </task>
+    <task id="LOCAL-00001" summary="Comment added">
+      <created>1544522229872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544522229872</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Comment added">
+      <created>1544522357004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544522357004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1320,7 +1341,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140855000" />
+    <option name="totallyTimeSpent" value="142146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="3224" height="1754" extended-state="6" />
@@ -1333,12 +1354,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991672" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3285151" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1363,6 +1384,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comment added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comment added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1670,7 +1695,7 @@
         <state relative-caret-position="300">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1680,8 +1705,8 @@
         <state relative-caret-position="270">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="false" />
+            <element signature="e#225#226#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1728,9 +1753,9 @@
         <state relative-caret-position="240">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#215#216#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1756,8 +1781,8 @@
         <state relative-caret-position="240">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#274#275#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1783,8 +1808,8 @@
         <state relative-caret-position="150">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="false" />
+            <element signature="e#258#259#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1931,8 +1956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/patterns/factory/ProductFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="450">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding />
         </state>
       </provider>
