@@ -25,7 +25,7 @@ public class ProductFactory {
     public static Product createProduct(String name, double price, int year) {
         TriFunction<Double, String, Integer, Product> function = map.get(name);
         if (function != null) {
-            return function.apply(price, name, year);
+            return function.apply(price, name, year);  // invokes the constructor reference
         }
         throw new NoSuchElementException(String.format("nonexistent product '%s'", name));
     }
